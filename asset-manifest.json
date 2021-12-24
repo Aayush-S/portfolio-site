@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.c0948bea.css",
+    "main.js": "/portfolio-site/static/js/main.4690d17a.js",
+    "static/js/787.6fdabf1d.chunk.js": "/portfolio-site/static/js/787.6fdabf1d.chunk.js",
+    "static/media/headshot.jpg": "/portfolio-site/static/media/headshot.11972992af9c11878eb1.jpg",
+    "static/media/gtri_logo.jpeg": "/portfolio-site/static/media/gtri_logo.3a93d401f10018e21ce4.jpeg",
+    "static/media/excessible.png": "/portfolio-site/static/media/excessible.a19319d3dd0d4b28579d.png",
+    "static/media/hexlabs_logo.jpg": "/portfolio-site/static/media/hexlabs_logo.5046b88a131d16e25170.jpg",
+    "index.html": "/portfolio-site/index.html",
+    "main.c0948bea.css.map": "/portfolio-site/static/css/main.c0948bea.css.map",
+    "main.4690d17a.js.map": "/portfolio-site/static/js/main.4690d17a.js.map",
+    "787.6fdabf1d.chunk.js.map": "/portfolio-site/static/js/787.6fdabf1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0948bea.css",
+    "static/js/main.4690d17a.js"
+  ]
+}
