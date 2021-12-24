@@ -22,7 +22,11 @@ function Landing() {
           </p>
           <ul className="landingLinks">
             <li>
-              <a href="" target="_blank" rel="noreferrer">
+              <a
+                href="https://drive.google.com/file/d/18hvAwMqOElSbZne2bOT6CNxaN7Wl9bQW/view?usp=sharing"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Resumé
               </a>
             </li>
