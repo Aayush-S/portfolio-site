@@ -1,4 +1,4 @@
-import { FaLongArrowAltDown, FaChevronDown } from "react-icons/fa";
+import { FaChevronDown } from "react-icons/fa";
 import headshot from "../images/headshot.jpg";
 
 function Landing() {
@@ -47,7 +47,7 @@ function Landing() {
           </ul>
         </div>
       </div>
-      {/* TODO: Make clickable to scroll down */}
+      {/* TODO: Make arrow clickable to scroll down */}
       <FaChevronDown className="downArrow" />
     </div>
   );

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import resumeInfo from "./resumeInfo.json";
+import resumeInfo from "./resumeInfo";
 import Landing from "./components/Landing";
 import WorkExperience from "./components/WorkExperience";
 import Projects from "./components/Projects";

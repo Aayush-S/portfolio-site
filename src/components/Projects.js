@@ -7,6 +7,8 @@ function Projects(props) {
       {props.projects.map((project, id) => (
         <ProjectCard
           key={id}
+          image={project.image}
+          link={project.link}
           title={project.title}
           tags={project.tags}
           description={project.description}
